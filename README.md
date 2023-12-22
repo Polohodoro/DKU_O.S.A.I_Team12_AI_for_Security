@@ -16,7 +16,7 @@ https://github.com/misbah4064/human-pose-estimation-opencv.git
 세부 내용은 해당 파일을 클릭해 확인할 수 있습니다.
 
 ## AI모델 구현 및 훈련
-파일: ral_v0_verbose.ipynb  
+파일: real_v0_verbose.ipynb  
 
 데이터 로드, 모델 작성 등 전반적인 부분에 대해 다루고 있습니다.
 
