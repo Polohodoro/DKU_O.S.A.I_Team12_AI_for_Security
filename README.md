@@ -27,11 +27,11 @@ https://github.com/misbah4064/human-pose-estimation-opencv.git
 ## 파이썬 버전
 
 ## 설치한 라이브러리
-
-https://github.com/Polohodoro/DKU_O.S.A.I_Team12_AI_for_Security/blob/main/README.md#%EC%A0%84%EC%B2%98%EB%A6%AC
-해당 구글 드라이브 공유폴더 내의 데이터로 디렉토리 경로를 설정하여, 데이터를 추출하였습니다.
+requirements.txt파일에서 확인할 수 있습니다.,
 
 ## 실행 방법
 
+https://github.com/Polohodoro/DKU_O.S.A.I_Team12_AI_for_Security/blob/main/README.md#%EC%A0%84%EC%B2%98%EB%A6%AC
+해당 구글 드라이브 공유폴더 내의 데이터로 디렉토리 경로를 설정하여, 데이터를 추출하였습니다.
 
 
