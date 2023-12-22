@@ -1,5 +1,5 @@
 # DKU_오픈소스AI응용_Team12
-AI for Security Recognition in Unmanned Stores
+AI for Security Recognition in Unmanned Stores<br>
 [사용한 데이터 파일들](https://drive.google.com/drive/folders/1oxZYv7pUYyy-37GEpq7HESPjvecoLNmX)
 
 ## 개요
