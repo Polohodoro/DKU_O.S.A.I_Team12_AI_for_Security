@@ -42,7 +42,8 @@ UBUNTU_CODENAME=jammy<br>
 Python 3.10.12
 
 ## 설치한 라이브러리
-requirement.txt파일에서 확인할 수 있습니다.
+requirement.txt파일에서 확인할 수 있습니다.<br>
+https://github.com/Polohodoro/DKU_O.S.A.I_Team12_AI_for_Security/blob/main/requirement.txt
 
 ## 실행 방법
 파일: real_v0_verbose.ipynb<br>
