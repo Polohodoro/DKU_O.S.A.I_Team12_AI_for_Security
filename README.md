@@ -44,3 +44,6 @@ Python 3.10.12
 ## 실행 방법
 [파일: real_v0_verbose.ipynb](https://github.com/Polohodoro/DKU_O.S.A.I_Team12_AI_for_Security/blob/main/real_v0_verbose.ipynb)<br>
 해당 파일에서 실행 순서를 확인할 수 있습니다.
+
+[데이터 파일 목록](https://drive.google.com/drive/folders/1oxZYv7pUYyy-37GEpq7HESPjvecoLNmX)
+구글 드라이브에 저장해 두었습니다
