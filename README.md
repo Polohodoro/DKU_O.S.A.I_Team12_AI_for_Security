@@ -1,5 +1,6 @@
-# DKU_Team12_AI_for_Security
+# DKU_오픈소스AI응용_Team12
 AI for Security Recognition in Unmanned Stores
+[사용한 데이터 파일들](https://drive.google.com/drive/folders/1oxZYv7pUYyy-37GEpq7HESPjvecoLNmX)
 
 ## 개요
 무인 상점의 보안을 위한, 동작 인식 AI를 만들고자 하였습니다.
