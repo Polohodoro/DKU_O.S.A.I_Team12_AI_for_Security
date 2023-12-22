@@ -23,8 +23,20 @@ https://github.com/misbah4064/human-pose-estimation-opencv.git
 세부 내용은 해당 파일을 클릭해 확인할 수 있습니다.
 
 ## 사용한 OS
-
+PRETTY_NAME="Ubuntu 22.04.3 LTS"<br>
+NAME="Ubuntu"<br>
+VERSION_ID="22.04"<br>
+VERSION="22.04.3 LTS (Jammy Jellyfish)"<br>
+VERSION_CODENAME=jammy<br>
+ID=ubuntu<br>
+ID_LIKE=debian<br>
+HOME_URL="https://www.ubuntu.com/"<br>
+SUPPORT_URL="https://help.ubuntu.com/"<br>
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"<br>
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"<br>
+UBUNTU_CODENAME=jammy<br>
 ## 파이썬 버전
+Python 3.10.12
 
 ## 설치한 라이브러리
 requirement.txt파일에서 확인할 수 있습니다.,
