@@ -22,7 +22,7 @@ https://github.com/misbah4064/human-pose-estimation-opencv.git
 
 세부 내용은 해당 파일을 클릭해 확인할 수 있습니다.
 
-##  패키지 정보
+## 사용한 OS
 
 ## 파이썬 버전
 
